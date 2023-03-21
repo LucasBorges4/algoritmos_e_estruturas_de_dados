@@ -1,7 +1,7 @@
 # Catalogo de algoritmos no geral
 
 Objetivo facilitar a administração e permitir mobilidade via github.
-z
+
 Implementações tiradas de aulas, videos, sites. ETC
 
 # Ressalvas:
