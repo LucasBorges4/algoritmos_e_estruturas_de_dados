@@ -1,0 +1,21 @@
+# depslib dependency file v1.0
+1632772301 source:c:\backes\_temp\_codigos\projset\arvoreavl.c
+	<stdio.h>
+	<stdlib.h>
+	"ArvoreAVL.h"
+
+1632772123 c:\backes\_temp\_codigos\projset\arvoreavl.h
+
+1633116958 source:c:\backes\_temp\_codigos\projset\main.c
+	<stdio.h>
+	<stdlib.h>
+	"Set.h"
+
+1633116651 c:\backes\_temp\_codigos\projset\set.h
+
+1633117133 source:c:\backes\_temp\_codigos\projset\set.c
+	<stdio.h>
+	<stdlib.h>
+	"Set.h"
+	"ArvoreAVL.h"
+

@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1448154333 source:e:\ertai\levar casa\temp\projdequedinamico\main.c
+	<stdio.h>
+	<stdlib.h>
+	"DequeDinamico.h"
+
+1448154299 e:\ertai\levar casa\temp\projdequedinamico\dequedinamico.h
+
+1448154382 source:e:\ertai\levar casa\temp\projdequedinamico\dequedinamico.c
+	<stdio.h>
+	<stdlib.h>
+	"DequeDinamico.h"
+

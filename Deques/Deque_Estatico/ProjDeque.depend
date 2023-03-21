@@ -1,0 +1,20 @@
+# depslib dependency file v1.0
+1448144879 source:e:\ertai\levar casa\temp\projdeque\main.c
+	<stdio.h>
+	<stdlib.h>
+	"DequeEstatico.h"
+
+1448144291 source:e:\ertai\levar casa\temp\projdeque\dequeestatico.c
+	<stdio.h>
+	<stdlib.h>
+	"DequeEstatico.h"
+
+1448144310 e:\ertai\levar casa\temp\projdeque\dequeestatico.h
+
+1448154873 source:g:\temp\_nova pasta\projdeque\main.c
+	<stdio.h>
+	<stdlib.h>
+	"DequeEstatico.h"
+
+1448154621 g:\temp\_nova pasta\projdeque\dequeestatico.h
+

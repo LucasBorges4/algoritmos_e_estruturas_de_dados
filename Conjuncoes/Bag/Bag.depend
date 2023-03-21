@@ -1,0 +1,49 @@
+# depslib dependency file v1.0
+1632591289 source:e:\andre\levar udia\bag\bag.c
+	<stdio.h>
+	<stdlib.h>
+	"Bag.h"
+
+1632591313 e:\andre\levar udia\bag\bag.h
+
+1632590515 source:e:\andre\levar udia\bag\main.c
+	<stdio.h>
+	<stdlib.h>
+	"Bag.h"
+
+1633109262 source:c:\backes\_temp\_codigos\projbag\bag.c
+	<stdio.h>
+	<stdlib.h>
+	"Bag.h"
+
+1633109323 c:\backes\_temp\_codigos\projbag\bag.h
+
+1633109307 source:c:\backes\_temp\_codigos\projbag\main.c
+	<stdio.h>
+	<stdlib.h>
+	"Bag.h"
+
+1633369430 source:d:\andre\pesquisa\publicações\livros\livro estutura de dados em c\material auxiliar\códigos\projbag\bag.c
+	<stdio.h>
+	<stdlib.h>
+	"Bag.h"
+
+1633366617 d:\andre\pesquisa\publicações\livros\livro estutura de dados em c\material auxiliar\códigos\projbag\bag.h
+
+1633369560 source:d:\andre\pesquisa\publicações\livros\livro estutura de dados em c\material auxiliar\códigos\projbag\main.c
+	<stdio.h>
+	<stdlib.h>
+	"Bag.h"
+
+1633369430 source:d:\pesquisa\publicações\livros\livro estutura de dados em c\material auxiliar\códigos\projbag\bag.c
+	<stdio.h>
+	<stdlib.h>
+	"Bag.h"
+
+1633366617 d:\pesquisa\publicações\livros\livro estutura de dados em c\material auxiliar\códigos\projbag\bag.h
+
+1635255985 source:d:\pesquisa\publicações\livros\livro estutura de dados em c\material auxiliar\códigos\projbag\main.c
+	<stdio.h>
+	<stdlib.h>
+	"Bag.h"
+

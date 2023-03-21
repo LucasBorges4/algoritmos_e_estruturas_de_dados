@@ -1,0 +1,14 @@
+# depslib dependency file v1.0
+1620906745 source:d:\projlistaestgen\listaestgen.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"ListaEstGen.h"
+
+1620851470 d:\projlistaestgen\listaestgen.h
+
+1620827895 source:d:\projlistaestgen\main.c
+	<stdio.h>
+	<stdlib.h>
+	"ListaEstGen.h"
+
